@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-study/static/css/main.acfee185.chunk.css",
+    "main.js": "/react-study/static/js/main.e6e2a8c3.chunk.js",
+    "main.js.map": "/react-study/static/js/main.e6e2a8c3.chunk.js.map",
+    "runtime~main.js": "/react-study/static/js/runtime~main.f153ecb3.js",
+    "runtime~main.js.map": "/react-study/static/js/runtime~main.f153ecb3.js.map",
+    "static/css/2.37fcca0c.chunk.css": "/react-study/static/css/2.37fcca0c.chunk.css",
+    "static/js/2.656b87c0.chunk.js": "/react-study/static/js/2.656b87c0.chunk.js",
+    "static/js/2.656b87c0.chunk.js.map": "/react-study/static/js/2.656b87c0.chunk.js.map",
+    "index.html": "/react-study/index.html",
+    "precache-manifest.a3fa8081b7cb6f61bbaed3fb1064fbde.js": "/react-study/precache-manifest.a3fa8081b7cb6f61bbaed3fb1064fbde.js",
+    "service-worker.js": "/react-study/service-worker.js",
+    "static/css/2.37fcca0c.chunk.css.map": "/react-study/static/css/2.37fcca0c.chunk.css.map",
+    "static/css/main.acfee185.chunk.css.map": "/react-study/static/css/main.acfee185.chunk.css.map"
+  }
+}
