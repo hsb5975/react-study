@@ -1,8 +1,16 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React,{Component} from 'react';
+import ReactDOM, {render} from 'react-dom';
+import { Provider } from 'react-redux';
 import './index.css';
 import App from './App';
+import Navigation from './Navigation';
+import Header from './Header';
+import Services from './Services';
+import Reserve from './Reserve';
+
 import * as serviceWorker from './serviceWorker';
+
+
 
 ReactDOM.render(<App />, document.getElementById('root'));
 

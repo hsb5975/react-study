@@ -1,0 +1,30 @@
+header{
+  margin: 0 auto;
+  text-align:center;
+  padding-top:60px;
+}
+
+
+header h1{
+  color:deeppink;
+  margin:0;
+  font-size:6rem;
+}
+
+header p{
+  color:deeppink;
+  font-size:1.75rem;
+  font-weight: bold;
+  margin-bottom:1rem;
+}
+
+header a{
+  box-shadow:0 2px 2px 0 #eee;
+  border-radius:4px;
+  color:deeppink;
+  font-weight: 700;
+  background:#fff;
+  padding:.85rem 2rem;
+  text-decoration: none;
+  display:inline-block;
+}

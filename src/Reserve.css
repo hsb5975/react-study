@@ -1,0 +1,25 @@
+.ReserveTitle{
+  text-align: left;
+  margin-bottom:1rem;
+}
+
+.picky-date-time__calendar, .picky-date-time__clock {
+    margin-bottom: 0px!important;
+}
+.picky-date-time-calendar__button{
+    bottom:0px!important;
+}
+.picky-date-time__close{
+  display: none;
+}
+.picky-date-time-calendar__body-container.l{
+      height: 340px!important;
+}
+.checkwrap{
+      display: inline-block;
+}
+.checkwrap>div{
+  float:left;
+  width:calc(30% - .75rem);
+  margin:0.10rem 0;
+}
