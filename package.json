@@ -19,7 +19,7 @@
     "react-picky-date-time": "^1.3.2",
     "react-redux": "^7.1.0",
     "react-redux-firebase": "^2.3.0",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "react-scroll-to": "^2.0.10",
     "react-time-picker": "^3.6.1",
     "reactstrap": "^8.0.1",
